@@ -1,0 +1,4 @@
+#Sat Feb 22 23:32:58 CET 2020
+base.0=/home/jens/Code/2020/Trash/flut/examples/flutter_view/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
